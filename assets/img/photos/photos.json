@@ -1,0 +1,102 @@
+{
+  "hero-atelier": {
+    "w": 1280,
+    "h": 1156
+  },
+  "secteur-public": {
+    "w": 1280,
+    "h": 480
+  },
+  "secteur-prive": {
+    "w": 1280,
+    "h": 480
+  },
+  "terrain-collecte": {
+    "w": 1280,
+    "h": 720
+  },
+  "formation-agents": {
+    "w": 1280,
+    "h": 720
+  },
+  "planning-editorial": {
+    "w": 1280,
+    "h": 720
+  },
+  "tournage": {
+    "w": 1280,
+    "h": 720
+  },
+  "atelier-cadrage": {
+    "w": 1280,
+    "h": 853
+  },
+  "atelier-production": {
+    "w": 1280,
+    "h": 853
+  },
+  "atelier-validation": {
+    "w": 1280,
+    "h": 853
+  },
+  "atelier-livraison": {
+    "w": 1280,
+    "h": 853
+  },
+  "bureaux-01": {
+    "w": 1280,
+    "h": 800
+  },
+  "bureaux-02": {
+    "w": 1280,
+    "h": 800
+  },
+  "equipe-large": {
+    "w": 1280,
+    "h": 400
+  },
+  "facade": {
+    "w": 1280,
+    "h": 720
+  },
+  "data-presentation": {
+    "w": 1280,
+    "h": 640
+  },
+  "digitalisation-atelier": {
+    "w": 1280,
+    "h": 640
+  },
+  "web-equipe": {
+    "w": 1280,
+    "h": 640
+  },
+  "audiovisuel-screens": {
+    "w": 1280,
+    "h": 640
+  },
+  "web-cadrage": {
+    "w": 1280,
+    "h": 720
+  },
+  "web-demo": {
+    "w": 1280,
+    "h": 720
+  },
+  "realisation-video": {
+    "w": 1280,
+    "h": 640
+  },
+  "showreel": {
+    "w": 1280,
+    "h": 720
+  },
+  "secteur-public-wide": {
+    "w": 1280,
+    "h": 480
+  },
+  "secteur-prive-wide": {
+    "w": 1280,
+    "h": 480
+  }
+}
